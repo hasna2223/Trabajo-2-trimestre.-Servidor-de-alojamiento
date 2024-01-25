@@ -33,3 +33,7 @@ Abrimos el archivo /etc/bind/named.conf.options para editarlo de la manera sigui
 Ahor abrimos el archivo /etc/bind/named.conf.local para editarlo de la manera siguiente:
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/37986bf2-b69b-4c9b-9ed2-5101ce5e5a7b)
 guardar y cerrar.
+
+Crear un derectorio zone y dentro de este derictorio crea dos ficheros uno para la zona dericta y otro para zona inversa.
+
+
