@@ -23,3 +23,13 @@ Crear un subdominio en el servidor DNS con las resolución directa e inversa
 Para ello, update apt-get, instalar y configurar bind9:
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/712aca5c-bc74-491d-a34b-fc72fd3bbe04)
 
+Instalacion de bind:
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8bd5aca2-e23d-4cae-b2d5-50a9fa704540)
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/36eb4152-7d89-4afa-b18e-d1f90e5d6f55)
+
+Abrimos el archivo /etc/bind/named.conf.options para editarlo de la manera siguiente:
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/08dd6fab-c509-491b-91e5-08c56396a8eb)
+
+Ahor abrimos el archivo /etc/bind/named.conf.local para editarlo de la manera siguiente:
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/37986bf2-b69b-4c9b-9ed2-5101ce5e5a7b)
+guardar y cerrar.
