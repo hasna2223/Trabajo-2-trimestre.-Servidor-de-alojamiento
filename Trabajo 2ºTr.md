@@ -39,7 +39,7 @@ Ahor abrimos el archivo /etc/bind/named.conf.local para editarlo de la manera si
 
 guardar y cerrar.
 
-Crear un derectorio zone y dentro de este derictorio crea dos ficheros uno para la zona dericta y otro para zona inversa.
+Crear un derectorio zone y dentro de este directorio crea dos ficheros uno para la zona dericta y otro para zona inversa.
 
 
 
