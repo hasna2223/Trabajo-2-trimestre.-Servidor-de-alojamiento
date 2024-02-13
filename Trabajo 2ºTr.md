@@ -43,6 +43,9 @@ Crear un derectorio zone y dentro de este directorio crea dos ficheros uno para 
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/7631f989-8d3e-4a39-92bb-0123bb0eaac5)
 
+Fichero de zona inversa:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/20919897-0307-4b3c-a174-6e13eb277267)
 
 
 
