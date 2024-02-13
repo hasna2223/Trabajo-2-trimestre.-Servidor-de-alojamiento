@@ -41,5 +41,8 @@ guardar y cerrar.
 
 Crear un derectorio zone y dentro de este directorio crea dos ficheros uno para la zona dericta y otro para zona inversa.
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/7631f989-8d3e-4a39-92bb-0123bb0eaac5)
+
+
 
 
