@@ -47,5 +47,6 @@ Fichero de zona inversa:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/20919897-0307-4b3c-a174-6e13eb277267)
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/bc06fca9-ab6e-44a6-a9f1-2dd0375a0c15)
 
 
