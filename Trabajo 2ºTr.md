@@ -49,4 +49,25 @@ Fichero de zona inversa:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/bc06fca9-ab6e-44a6-a9f1-2dd0375a0c15)
 
+Crear un host virtual en Apache:
+Para ello siguimos los siguientes pasos, ( tal como en el trabajo del 1º Trimestre):
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/3160d8a9-b4ab-46ee-8b0b-8068e33ecd14)
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2d500c45-1729-4aa4-83cc-ebbc79981c85)
+
+sudo apt install apache2: 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8b0aee6b-01f1-4d1f-b694-a3942dc60ddb)
+
+Verificar el estado de Apache 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/261c60f2-ba08-4555-9b6c-a17726d3893b)
+
+Habilitar el servicio para que inicie con el sistema
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/1db9dff3-f0e8-4828-9daf-62e738a401df)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f536713b-fa6d-4b28-a0e9-d9266c9ef0aa)
+
+
+
+
+
 
