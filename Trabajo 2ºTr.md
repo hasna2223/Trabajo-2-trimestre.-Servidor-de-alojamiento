@@ -87,6 +87,8 @@ crear host:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/7412af3c-78b3-4e80-933c-6203e9ae76cc)
 
+Para activar la nueva configuracion, ejecutamos : systemctl reload apache2
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e73f13b8-7dcd-4dc3-833f-0d934414e753)
 
 
