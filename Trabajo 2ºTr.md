@@ -112,3 +112,13 @@ Configurar Apache2:
 Para habilitar el acceso a phpMyAdmin desde el servidor web, debemos agregar una línea al archivo de configuración de Apache.
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/9cfea915-bd4c-49e2-8bfd-94d7a8e11401)
+
+
+En el navigador ejecutamos el nombre del dominio/phpmyadmin:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e8e8db1c-29d6-4323-bf0d-2f74d00aa630)
+
+
+4. creará una base de datos además de un usuario con todos los permisos sobre dicha base de datos (ALL PRIVILEGES)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/db21e1d2-5b6c-4ce8-bd08-97c4917a7533)
