@@ -56,17 +56,24 @@ Para ello siguimos los siguientes pasos, ( tal como en el trabajo del 1º Trimes
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2d500c45-1729-4aa4-83cc-ebbc79981c85)
 
 sudo apt install apache2: 
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8b0aee6b-01f1-4d1f-b694-a3942dc60ddb)
 
 Verificar el estado de Apache 
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/261c60f2-ba08-4555-9b6c-a17726d3893b)
 
 Habilitar el servicio para que inicie con el sistema
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/1db9dff3-f0e8-4828-9daf-62e738a401df)
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f536713b-fa6d-4b28-a0e9-d9266c9ef0aa)
 
+creamos un directori donde guardamos el script : 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/46de8647-192e-4041-8220-ed291a5fca5e)
+
 nano script:
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/44f0eb2d-f393-4bdf-886f-30e89d247517)
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/af99f597-78be-4b3e-886f-509d835d8b6d)
