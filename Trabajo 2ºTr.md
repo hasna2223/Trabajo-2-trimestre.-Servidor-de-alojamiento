@@ -66,7 +66,15 @@ Habilitar el servicio para que inicie con el sistema
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f536713b-fa6d-4b28-a0e9-d9266c9ef0aa)
 
+nano script:
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/44f0eb2d-f393-4bdf-886f-30e89d247517)
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/af99f597-78be-4b3e-886f-509d835d8b6d)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2409c6d4-4ae4-4bfb-8b9e-d949f4ed1c8c)
+
+crear host:
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2a6d1c7e-fcdf-4586-9fae-80aa9685e124)
 
 
 
