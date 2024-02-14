@@ -85,6 +85,7 @@ crear host:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2a6d1c7e-fcdf-4586-9fae-80aa9685e124)
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/7412af3c-78b3-4e80-933c-6203e9ae76cc)
 
 
 
