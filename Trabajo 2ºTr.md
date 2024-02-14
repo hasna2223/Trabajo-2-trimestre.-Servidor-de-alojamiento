@@ -95,3 +95,20 @@ Para activar la nueva configuracion, ejecutamos : systemctl reload apache2
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e73f13b8-7dcd-4dc3-833f-0d934414e753)
 
 
+3. administrar con phpmyadmin
+   
+Para administrar una base de datos con phpmyadmin hay que seguir estos pasos:
+a. Instalar PHP
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f149a68f-c47a-46f1-ad24-12d3467b57db)
+
+b. Instalar phpMyAdmin:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/3a16988f-2f12-424f-b302-2e3135af7720)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/27d764d0-47ad-44e8-aa25-55c3d3d32c6b)
+
+Configurar Apache2: 
+Para habilitar el acceso a phpMyAdmin desde el servidor web, debemos agregar una línea al archivo de configuración de Apache.
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/9cfea915-bd4c-49e2-8bfd-94d7a8e11401)
