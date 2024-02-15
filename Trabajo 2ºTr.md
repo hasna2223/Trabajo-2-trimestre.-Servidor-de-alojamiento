@@ -181,6 +181,8 @@ Creamos una copia del archivo: /etc/vsftpd.chroot_list
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/b09bf463-a937-41a4-a022-a5749a63cfa3)
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/fec96340-50a2-429f-ba66-ef150254c040)
+
 Creamos una copia del archivo con el siguiente comando:
 /etc/vsftpd.chroot_list conpd.chroot_list.backup 
 
@@ -189,6 +191,9 @@ sudo echo "ftpuser" | sudo tee -a /etc/vsftpd.chroot_list
 
 y al final reiniciamos el servidor FTP:
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/ae730ace-f0ad-4baa-904c-ce688a33987f)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2a062da1-ef8d-4bce-ac4b-e58bc32e7870)
 
 
 
