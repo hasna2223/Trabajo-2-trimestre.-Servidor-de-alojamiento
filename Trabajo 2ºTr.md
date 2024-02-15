@@ -122,3 +122,25 @@ En el navigador ejecutamos el nombre del dominio/phpmyadmin:
 4. creará una base de datos además de un usuario con todos los permisos sobre dicha base de datos (ALL PRIVILEGES)
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/db21e1d2-5b6c-4ce8-bd08-97c4917a7533)
+
+5. Creación de usuario del sistema para acceso a ssh:
+Primero instalaremos ssh y configurarlo:
+
+Instalamos el servidor OpenSSH en el sistema:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f747b7db-3788-41b4-a9be-fabb368e92bc)
+
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e7a5e033-f9b6-40ce-b7af-0424f53117fd)
+
+Si está inactivo, podemos iniciarlo con el siguiente comando:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/cc3b80a4-3183-4893-be57-79fb3d84c843)
+
+
+Configuramos el servidor ssh para permitir la autenticación basada en contraseñas y la autenticación basada en claves públicas: 
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/6e6a3753-68b8-48c1-a937-c8cd520c9755)
+
+
+
