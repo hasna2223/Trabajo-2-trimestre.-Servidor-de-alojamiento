@@ -181,4 +181,15 @@ Creamos una copia del archivo: /etc/vsftpd.chroot_list
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/b09bf463-a937-41a4-a022-a5749a63cfa3)
 
+Creamos una copia del archivo con el siguiente comando:
+/etc/vsftpd.chroot_list conpd.chroot_list.backup 
+
+Agregar el nombre de usuario al archivo :/etc/vsftpd.chroot_list:
+sudo echo "ftpuser" | sudo tee -a /etc/vsftpd.chroot_list
+
+y al final reiniciamos el servidor FTP:
+
+
+
+
 
