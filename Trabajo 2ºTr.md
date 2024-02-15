@@ -148,4 +148,35 @@ sudo systemctl restartt ssh:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/07866974-34f5-412a-bfb7-7ae1ef108c7f)
 
+Ahora ejecutamos el shell script para crear usuario del sistema:
+contraseña nueva: usuario
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/bd221f6e-5143-454b-9b75-ef442a05a12b)
+
+Los clientes podrán acceder mediante ftp para la administración de archivos configurando 
+adecuadamente TLS. Para ello seguimos los pasos siguientes:
+
+Instalamos el servidor FTP y el módulo de autenticación TLS/SSL
+
+sudo apt update:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/44a091d1-d835-4713-9d4e-556bf9c0f6ee)
+
+sudo apt install vsftpd libpam-pwdfille openssl:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/3e451769-e388-4922-9047-04c76409b827)
+
+Ahora, Crearemos un usuario de FTP y establecer su contraseña:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/5044b55e-1987-4e66-96bf-7c5d7a9e6341)
+
+Configuramos el servidor FTP para utilizar TLS. abrimos el editor de texto: /etc/vsftpd.conf
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2602bab6-6c6c-4b6b-b65b-7526f27b39c9)
+
+agregamos las lineas (En la captura siguiente) 
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/a1f75ffe-0d62-4514-9f36-7c0009e4040e)
+
+Creamos una copia del archivo: /etc/vsftpd.chroot_list
+
 
