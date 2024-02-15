@@ -142,5 +142,10 @@ Configuramos el servidor ssh para permitir la autenticaci√≥n basada en contrase√
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/6e6a3753-68b8-48c1-a937-c8cd520c9755)
 
+Reiniciamos el servicio ssh para que los cambios surtan efectos:
+
+sudo systemctl restartt ssh:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/07866974-34f5-412a-bfb7-7ae1ef108c7f)
 
 
