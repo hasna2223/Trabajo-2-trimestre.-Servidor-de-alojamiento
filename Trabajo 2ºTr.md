@@ -179,4 +179,6 @@ agregamos las lineas (En la captura siguiente)
 
 Creamos una copia del archivo: /etc/vsftpd.chroot_list
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/b09bf463-a937-41a4-a022-a5749a63cfa3)
+
 
