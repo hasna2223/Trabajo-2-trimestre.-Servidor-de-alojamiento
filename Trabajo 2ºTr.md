@@ -196,5 +196,14 @@ y al final reiniciamos el servidor FTP:
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2a062da1-ef8d-4bce-ac4b-e58bc32e7870)
 
 
+sudo apt-get update :
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/87064235-e0df-4d3a-9e96-f7d55aaff0a1)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/dd7ea1ca-7b13-4b7a-9817-16effb634666)
+
+despues de instalar Filezilla, ejecutamos filezilla y nos sale en la pantalla como en la siguiente captura de pantalla:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/5c9892db-6a93-4b3a-8f34-73ddb899cdc0)
 
 
