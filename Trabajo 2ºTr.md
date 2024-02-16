@@ -206,4 +206,11 @@ despues de instalar Filezilla, ejecutamos filezilla y nos sale en la pantalla co
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/5c9892db-6a93-4b3a-8f34-73ddb899cdc0)
 
+Y para la configurar la conexion FTPES, siguimos loss siguientes pasos: 
+En Filezilla:
+  1- Hacemos clic en 'Archivo' en la barra del menu y seleccionamos 'Administrar sitios':
+
+  ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e6500573-d7e8-4a6f-8609-87757cd4209c)
+
+
 
