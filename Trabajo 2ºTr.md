@@ -138,6 +138,7 @@ Si está inactivo, podemos iniciarlo con el siguiente comando:
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/cc3b80a4-3183-4893-be57-79fb3d84c843)
 
 
+
 Configuramos el servidor ssh para permitir la autenticación basada en contraseñas y la autenticación basada en claves públicas: 
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/6e6a3753-68b8-48c1-a937-c8cd520c9755)
@@ -213,4 +214,19 @@ En Filezilla:
   ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e6500573-d7e8-4a6f-8609-87757cd4209c)
 
 
+  2- Haceemos clic en el botton 'Nuevo sitio' y asignamos un nombre a el sitio:
+  
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f9754e4a-56d6-4865-8f16-ca63315fb5f2)
+
+  3- En el panel de derecho configuramos los siguienttes:
+-En "Protocolo", selecciona "FTP - Protocolo de Transferencia de Archivos".
+-En "Cifrado", selecciona "Usar FTP sobre TLS si está disponible (FTPES)".
+-En "Host", introduce la dirección IP o nombre de dominio del servidor FTP.
+-En "Puerto", introduce el número del puerto FTP (generalmente 21).
+-En "Nombre de usuario", introduce el nombre de usuario FTP que creaste.
+-En "Contraseña", introduce la contraseña del usuario FTP.
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e363b49d-617e-40ac-a15a-8b27ec0a9457)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2e9a14d7-3b8e-491d-b819-20961c8515c2)
 
