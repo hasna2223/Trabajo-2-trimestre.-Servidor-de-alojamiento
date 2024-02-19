@@ -230,3 +230,5 @@ En Filezilla:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2e9a14d7-3b8e-491d-b819-20961c8515c2)
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/625a252d-1b51-49d5-abe6-fc0dc2969f00)
+
