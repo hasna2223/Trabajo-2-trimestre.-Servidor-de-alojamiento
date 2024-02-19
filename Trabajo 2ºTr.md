@@ -38,6 +38,7 @@ Para ello, update apt-get, instalar y configurar bind9:
 Instalacion de bind:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8bd5aca2-e23d-4cae-b2d5-50a9fa704540)
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/36eb4152-7d89-4afa-b18e-d1f90e5d6f55)
 
 Abrimos el archivo /etc/bind/named.conf.options para editarlo de la manera siguiente:
@@ -64,6 +65,7 @@ Crear un host virtual en Apache:
 Para ello siguimos los siguientes pasos, ( tal como en el trabajo del 1º Trimestre):
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/3160d8a9-b4ab-46ee-8b0b-8068e33ecd14)
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2d500c45-1729-4aa4-83cc-ebbc79981c85)
 
 sudo apt install apache2: 
@@ -105,7 +107,6 @@ Para activar la nueva configuracion, ejecutamos : systemctl reload apache2
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e73f13b8-7dcd-4dc3-833f-0d934414e753)
 
-
 3. administrar con phpmyadmin
    
 Para administrar una base de datos con phpmyadmin hay que seguir estos pasos:
@@ -124,11 +125,9 @@ Para habilitar el acceso a phpMyAdmin desde el servidor web, debemos agregar una
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/9cfea915-bd4c-49e2-8bfd-94d7a8e11401)
 
-
 En el navigador ejecutamos el nombre del dominio/phpmyadmin:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e8e8db1c-29d6-4323-bf0d-2f74d00aa630)
-
 
 4. creará una base de datos además de un usuario con todos los permisos sobre dicha base de datos (ALL PRIVILEGES)
 
@@ -141,13 +140,11 @@ Instalamos el servidor OpenSSH en el sistema:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f747b7db-3788-41b4-a9be-fabb368e92bc)
 
-
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e7a5e033-f9b6-40ce-b7af-0424f53117fd)
 
 Si está inactivo, podemos iniciarlo con el siguiente comando:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/cc3b80a4-3183-4893-be57-79fb3d84c843)
-
 
 
 Configuramos el servidor ssh para permitir la autenticación basada en contraseñas y la autenticación basada en claves públicas: 
@@ -162,6 +159,7 @@ sudo systemctl restartt ssh:
 
 Ahora ejecutamos el shell script para crear usuario del sistema:
 contraseña nueva: usuario
+
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/bd221f6e-5143-454b-9b75-ef442a05a12b)
 
 Los clientes podrán acceder mediante ftp para la administración de archivos configurando 
@@ -199,6 +197,7 @@ Creamos una copia del archivo con el siguiente comando:
 /etc/vsftpd.chroot_list conpd.chroot_list.backup 
 
 Agregar el nombre de usuario al archivo :/etc/vsftpd.chroot_list:
+
 sudo echo "ftpuser" | sudo tee -a /etc/vsftpd.chroot_list
 
 y al final reiniciamos el servidor FTP:
@@ -230,11 +229,17 @@ En Filezilla:
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/f9754e4a-56d6-4865-8f16-ca63315fb5f2)
 
   3- En el panel de derecho configuramos los siguienttes:
+  
 -En "Protocolo", selecciona "FTP - Protocolo de Transferencia de Archivos".
+
 -En "Cifrado", selecciona "Usar FTP sobre TLS si está disponible (FTPES)".
+
 -En "Host", introduce la dirección IP o nombre de dominio del servidor FTP.
+
 -En "Puerto", introduce el número del puerto FTP (generalmente 21).
+
 -En "Nombre de usuario", introduce el nombre de usuario FTP que creaste.
+
 -En "Contraseña", introduce la contraseña del usuario FTP.
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e363b49d-617e-40ac-a15a-8b27ec0a9457)
@@ -246,5 +251,6 @@ En Filezilla:
 y como resultado ya lo tenemos hecho, Filezilla configurado como se ve en la siguiente captura de pantalla: 
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8c19bdf2-4f4a-49c9-a793-5d5165e8464e)
+
 
 
