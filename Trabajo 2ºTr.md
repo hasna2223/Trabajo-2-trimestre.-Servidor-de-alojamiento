@@ -248,7 +248,7 @@ En Filezilla:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/625a252d-1b51-49d5-abe6-fc0dc2969f00)
 
-y como resultado ya lo tenemos hecho, Filezilla configurado como se ve en la siguiente captura de pantalla: 
+y como resultado ya lo tenemos hecho, Filezilla bien configurado como se ve en la siguiente captura de pantalla: 
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8c19bdf2-4f4a-49c9-a793-5d5165e8464e)
 
