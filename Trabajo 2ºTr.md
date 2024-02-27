@@ -279,4 +279,6 @@ Para verificar que Docker se ha instalado correctamente, ejecutamos el siguiente
 
 Descargar la imagen de Apache:
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/eee4ffa9-df0f-4b05-a39b-2974aad515c1)
+
 Crear y ejecutar un contenedor de Apache:
