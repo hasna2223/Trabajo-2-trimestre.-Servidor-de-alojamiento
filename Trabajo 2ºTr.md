@@ -283,4 +283,15 @@ Descargar la imagen de Apache:
 
 Crear y ejecutar un contenedor de DNS:
 
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/81b210b3-9fd2-4572-8406-72099aabd2a5)
+
+Para asegurar que si el contenedor DNS esta creado, ejecutamos: 
+docker inspect mi_contenedor_dns  
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/d88b0696-6be6-4ad8-bfc6-7d2b15ebc92b)
+
+Crear un contenedor para el servidor web Nginx como ejemplo:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/5068a2e3-4680-42ec-81c5-70ca2b94a62a)
+
 
