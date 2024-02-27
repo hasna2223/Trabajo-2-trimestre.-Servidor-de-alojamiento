@@ -294,4 +294,27 @@ Crear un contenedor para el servidor web Nginx como ejemplo:
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/5068a2e3-4680-42ec-81c5-70ca2b94a62a)
 
+Crear un contenedor para MySQL:
+   
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/6a0d300d-532e-4b98-8347-4153cfb70581)
+
+docker pull mysql:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/6dd3dd95-cd5f-498e-b0dc-978d9183c696)
+
+Escribe un Dockerfile:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/75302cf2-7ec7-4530-b1dc-aa9d3fad0ec7)
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/3f185044-d692-4184-8a41-07ff24febea3)
+
+Construye el contenedor Docker
+
+ejecutamos una imagen preconstruida importada de Docker Hub. Vamos a utilizar la imagen MySQL que sacamos anteriormente:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2d43d5e2-4ed4-449c-aa3c-d1f0a8191649)
+
+Ejecuta y gestiona contenedores
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/2287818f-4000-44a0-a790-264f50b27ca8)
 
