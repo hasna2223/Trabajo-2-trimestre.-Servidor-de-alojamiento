@@ -252,5 +252,25 @@ y como resultado ya lo tenemos hecho, Filezilla bien configurado como se ve en l
 
 ![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/8c19bdf2-4f4a-49c9-a793-5d5165e8464e)
 
+2 parte:
+
+Adicionalmente se podrá incluir:
+
+Creación mediante mediante Docker de un contenedor DNS y al menos un contenedor que actuará como servidor (web, mysql, ssh,...) Se configurará la red, volúmenes y scripts necesarios para ponerlos en marcha. Este apartado se valorará con hasta el 20% de la nota de la práctica.
+
+Primer paso: Instalacion de Docker:
+
+sudo apt update:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/b00c7b79-49aa-4b51-94ea-cd177ab5dd16)
+
+sudo apt install docker.io:
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/23f38569-9dfd-4a80-8f57-fd967019a5b2)
+
+sudo systemctl start docker
+sudo systemctl enable docker
+
+![image](https://github.com/hasna2223/Trabajo-2-trimestre.-Servidor-de-alojamiento/assets/119622209/e4668ef9-f209-48fc-887f-136157c294e8)
 
 
